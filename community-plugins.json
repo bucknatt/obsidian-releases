@@ -25695,5 +25695,13 @@
     "author": "wrongvibe",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically change accent colour based on which folder your note is in.",
     "repo": "wrongvibe/folder-accents"
+  },
+  {
+    "id": "miku-plugin-hybrid",
+    "name": "Miku Hybrid",
+    "author": "Nattaya Buck",
+    "description": "Switch Miku-inspired theme modes and optional dashboard widgets with built-in hybrid styling.",
+    "repo": "bucknatt/mitsu-plugin",
+    "branch": "main"
   }
 ]
